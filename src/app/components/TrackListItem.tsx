@@ -2,12 +2,14 @@ import { TouchableHighlight, View, StyleSheet, Text } from "react-native"
 import FastImage from "react-native-fast-image"
 import { unknownArtistImageUri } from "../constants/images"
 import { colors, fontSize } from "../constants/tokens"
-import { defaultStyles } from "../styles"
+import { defaultStyles} from "../styles"
 
 export type TrackListItemProps = {
     track:{title:string, image?:string, artist?:string,},
 
 }
+
+
 
 export const TrackListItem = ({track}: TrackListItemProps) => {
     const isActiveTrack = false
@@ -64,7 +66,7 @@ const styles = StyleSheet.create({
     },
     trackItemContainer: {
         flexDirection: "row",
-        columnGap: 14,
+        columnGap: 13,
         alignItems: "center",
         paddingRight: 20,
     }

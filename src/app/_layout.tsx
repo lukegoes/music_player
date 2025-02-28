@@ -5,7 +5,6 @@ import { SafeAreaProvider } from 'react-native-safe-area-context'
 const App = () =>{
 	return <SafeAreaProvider>
 		<RootNavigation />
-		abc
 		<StatusBar style="auto"/>
 	</SafeAreaProvider>
 }
