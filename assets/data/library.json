@@ -1,28 +1,28 @@
-[
+{"tracks": [
     {
-      "url": "https://audio.jukehost.co.uk/vTRYaTEbpaYRCxiWGgL2S91mnOuMKfLw",
-      "title": "Galaxy",
-      "artist": "Luna",
-      "artwork": "https://upload.wikimedia.org/wikipedia/pt/c/c4/Luna-_Free_Somebody.png",
+      "url": "https://audio.jukehost.co.uk/QxVMFuCJgmJbnf0OA7ElkfElezZat6Bh",
+      "title": "Mine",
+      "artist": "Audrey Nuna",
+      "artwork": "https://i.scdn.co/image/ab67616d0000b2737018993d98f45e157df993e0",
       "rating": 1,
       "playlist": ["Pop"]
     },
     {
-      "url": "https://audio.jukehost.co.uk/priWy2vYsWODmQiM6KevNYVLpPJGPZGd",
+      "url": "https://audio.jukehost.co.uk/NRXNfevTQDKGBy0XBWIRaSLC2rHEijzF",
       "title": "Twist The Knife",
       "artist": "Rebecca Black",
       "artwork": "https://i1.sndcdn.com/artworks-VXXzHBKU6cfZbCY9-Yh5CAw-t500x500.jpg",
       "playlist": ["Alternativa 🎵"]
     },
     {
-      "url": "https://audio.jukehost.co.uk/rSmGXxf0OJLipPwFRyvoFKodDOj5VuWf",
+      "url": "https://audio.jukehost.co.uk/mVL0HgtCGDfOhIL3IzTwOvWd34YBUq1n",
       "title": "Salvation",
       "artist": "Rebecca Black",
       "artwork": "https://i1.sndcdn.com/artworks-VXXzHBKU6cfZbCY9-Yh5CAw-t500x500.jpg",
       "playlist": ["Pop", "Alternativa 🎵", "Eletro 🎤"]
     },
     {
-      "url": "https://audio.jukehost.co.uk/ZLdoXNocDAcsgeq6QKtPRHyvlqslNbke",
+      "url": "https://audio.jukehost.co.uk/VKTcgfH4AEL6baEpRfq2AF2bVf9fnEFk",
       "title": "STRESS",
       "artist": "CHUNG HA",
       "artwork": "https://images.genius.com/30e22d3ffb8418ad6d31c80c8b2fe631.583x583x1.png",
@@ -30,20 +30,20 @@
       "playlist": ["Eletro 🎤"]
     },
     {
-      "url": "https://audio.jukehost.co.uk/rZ9sshicVlki8Dnm95ps1eWhK95dYgKF",
+      "url": "https://audio.jukehost.co.uk/Yqy2o1yOMPPVIu3avVRNcoZI1T5WlQGp",
       "title": "Wanderlust",
       "artist": "FKA Twigs",
       "artwork": "https://cdn-images.dzcdn.net/images/cover/a309514eb25c12a5bae618dee062cbde/0x1900-000000-80-0-0.jpg",
       "playlist": ["Pop"]
     },
     {
-      "url": "https://audio.jukehost.co.uk/ZufGK11EtwQWXge8xYo5EQ02RuJqtr4s",
+      "url": "https://audio.jukehost.co.uk/ERMaKoN5NFn9d5eolQSTi5LNVY8ZubY9",
       "title": "Girl Feels Good",
       "artist": "FKA Twigs",
       "artwork": "https://cdn-images.dzcdn.net/images/cover/a309514eb25c12a5bae618dee062cbde/0x1900-000000-80-0-0.jpg"
     },
     {
-      "url": "https://audio.jukehost.co.uk/Tn0JjUOFnQXt94p3CQCA4AkB3weF51Yf",
+      "url": "https://audio.jukehost.co.uk/FJUpSEyeCZnMcgQ5hfwQrJHGHdPvqOdv",
       "title": "Sticky",
       "artist": "FKA Twigs",
       "artwork": "https://cdn-images.dzcdn.net/images/cover/a309514eb25c12a5bae618dee062cbde/0x1900-000000-80-0-0.jpg",
@@ -51,61 +51,61 @@
       "playlist": ["Eletro 🎤"]
     },
     {
-      "url": "https://audio.jukehost.co.uk/yA5v0HqEX7pRLKDkjp3XeFDcksZVv7lr",
+      "url": "https://audio.jukehost.co.uk/04hJ6Go8dGBEldSQroWCDp0QV76DGqaT",
       "title": "Skin",
       "artist": "Grimes",
       "artwork": "https://preview.redd.it/7960xeza9an01.jpg?auto=webp&s=0fdaa4d5ba2ca5d9be35de44178380b4c764f7b3"
     },
     {
-      "url": "https://audio.jukehost.co.uk/BTIDaoKPirPWaPpHl8SOsIU8Ge9Zx9Mb",
+      "url": "https://audio.jukehost.co.uk/EggFjPeHJU6Rd2QzThRWIZP0KOSRfsl3",
       "title": "Oblivion",
       "artist": "Grimes",
       "artwork": "https://preview.redd.it/7960xeza9an01.jpg?auto=webp&s=0fdaa4d5ba2ca5d9be35de44178380b4c764f7b3",
       "playlist": ["Alternativa 🎵", "Eletro 🎤"]
     },
     {
-      "url": "https://audio.jukehost.co.uk/nXa6f08Ojlz1V2SYJ3axYmSa7ot0hblZ",
+      "url": "https://audio.jukehost.co.uk/qS2KDVDjaOjuqwjT4e2Vj2cdYJJusK9C",
       "title": "Player Of Games",
       "artist": "Grimes",
       "artwork": "https://i.scdn.co/image/ab67616d0000b273d4316d60f0987758291942c7",
       "rating": 1
     },
     {
-      "url": "https://audio.jukehost.co.uk/cbMVQp4JGHhSNEeCqRjvieiigYpUaE0s",
+      "url": "https://audio.jukehost.co.uk/vvNe6glCrfzzq8treTaHC5olSMhgNKnt",
       "title": "Venus Fly",
       "artist": "Grimes",
       "artwork": "https://upload.wikimedia.org/wikipedia/en/d/d9/Grimes_-_Art_Angels.png",
       "playlist": ["Eletro 🎤"]
     },
     {
-      "url": "https://audio.jukehost.co.uk/Ge9fdTsk6Y9SWoOnC7QJH0n8pprU7rev",
+      "url": "https://audio.jukehost.co.uk/wLjGJLJfGzKsJaw1dJzXqg8uhc4dVXR7",
       "title": "Trainwreck",
       "artist": "Banks",
       "artwork": "https://i.scdn.co/image/ab67616d0000b2731eddafbae86f6791a33ce30d",
       "playlist": ["Pop", "Alternativa 🎵"]
     },
     {
-      "url": "https://audio.jukehost.co.uk/KDOr4agGwHHvikLtk9zukiiDpYNzIp8w",
+      "url": "https://audio.jukehost.co.uk/KR23T3yeoAQYyEAyHOPAGZOYQihuVgMu",
       "title": "Gemini Feed",
       "artist": "Banks",
       "artwork": "https://i.scdn.co/image/ab67616d0000b2731eddafbae86f6791a33ce30d",
       "rating": 1
     },
     {
-      "url": "https://audio.jukehost.co.uk/K4PdyskIIfRrRotZtwF0EfHkJGjTs9Dy",
+      "url": "https://audio.jukehost.co.uk/ke2Wb6h3R9I3JgkRzkXH1Ny8YUfPh4rm",
       "title": "Guess featuring Billie Eilish",
       "artist": "Charli XCX",
       "artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmkKIelOELsaMNZY3WWC4Bm2KJwKZA5tPaVEu1t3gC5fJfjXIdUXhSvJvplV-EtiqJ-HU&usqp=CAU"
     },
     {
-      "url": "https://audio.jukehost.co.uk/5MLu9yZCOGOCpf9yhdK4uitEv2CZ9fwx",
+      "url": "https://audio.jukehost.co.uk/baTVAXDZTjOLbRHuLwpLYdj9FEHJnKXx",
       "title": "365",
       "artist": "Charli XCX",
       "artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNMPDtGFDcS4japYo_f4TtgxwJCZL2_jQiOA&s",
       "playlist": ["Pop"]
     },
     {
-      "url": "https://audio.jukehost.co.uk/bnvYr6BoqfoZjrx72rvq3hGXyE6b7Qyz",
+      "url": "https://audio.jukehost.co.uk/KwH19ETOB93rsg89TJUNpiedB7yAbzfl",
       "title": "Mean girls",
       "artist": "Charli XCX",
       "artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNMPDtGFDcS4japYo_f4TtgxwJCZL2_jQiOA&s",
@@ -113,7 +113,7 @@
     },
   
     {
-      "url": "https://audio.jukehost.co.uk/vTRYaTEbpaYRCxiWGgL2S91mnOuMKfLw",
+      "url": "https://audio.jukehost.co.uk/OVD4oGnpn6gqnhMX8W5a1OsIJoLIvmOb",
       "title": "360",
       "artist": "Charli XCX",
       "artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNMPDtGFDcS4japYo_f4TtgxwJCZL2_jQiOA&s",
@@ -121,21 +121,21 @@
       "playlist": ["Pop"]
     },
     {
-      "url": "https://audio.jukehost.co.uk/priWy2vYsWODmQiM6KevNYVLpPJGPZGd",
+      "url": "https://audio.jukehost.co.uk/XROO4zscj610bLY4WV3GY29cZ3qkk280",
       "title": "Kill V. Maim",
       "artist": "Grimes",
       "artwork": "https://upload.wikimedia.org/wikipedia/en/d/d9/Grimes_-_Art_Angels.png",
       "playlist": ["Alternativa 🎵"]
     },
     {
-      "url": "https://audio.jukehost.co.uk/rSmGXxf0OJLipPwFRyvoFKodDOj5VuWf",
+      "url": "https://audio.jukehost.co.uk/ZOy5qvrGmgaQttvjKnIStYEfMLn3OV4A",
       "title": "Please Please Please",
       "artist": "Sabrina Carpenter",
       "artwork": "https://cdn-images.dzcdn.net/images/cover/0fd6e3b346b959a8781ccfa89b63607a/1900x1900-000000-80-0-0.jpg",
       "playlist": ["Pop", "Alternativa 🎵", "Eletro 🎤"]
     },
     {
-      "url": "https://audio.jukehost.co.uk/ZLdoXNocDAcsgeq6QKtPRHyvlqslNbke",
+      "url": "https://audio.jukehost.co.uk/L1JnUxQdNxGFWnsy1biRaZqnrrcNcN5p",
       "title": "Taste",
       "artist": "Sabrina Carpenter",
       "artwork": "https://cdn-images.dzcdn.net/images/cover/0fd6e3b346b959a8781ccfa89b63607a/1900x1900-000000-80-0-0.jpg",
@@ -143,21 +143,21 @@
       "playlist": ["Eletro 🎤"]
     },
     {
-      "url": "https://audio.jukehost.co.uk/rZ9sshicVlki8Dnm95ps1eWhK95dYgKF",
+      "url": "https://audio.jukehost.co.uk/E62pylfqGFNm4vEJPFqdiC2HGHnevm0v",
       "title": "Espresso",
       "artist": "Sabrina Carpenter",
       "artwork": "https://cdn-images.dzcdn.net/images/cover/0fd6e3b346b959a8781ccfa89b63607a/1900x1900-000000-80-0-0.jpg",
       "playlist": ["Pop"]
     },
     {
-      "url": "https://audio.jukehost.co.uk/ZufGK11EtwQWXge8xYo5EQ02RuJqtr4s",
+      "url": "https://audio.jukehost.co.uk/aEDvmpCEeL4AfbzPCsOVCL4FzeuP1nkr",
       "title": "Heavy Is the Crown",
       "artist": "Linkin Park",
       "artwork": "https://cdn-images.dzcdn.net/images/cover/1e8ffbd401303b5693226c12ee0b84fb/0x1900-000000-80-0-0.jpg",
       "playlist": ["Rock"]
     },
     {
-      "url": "https://audio.jukehost.co.uk/Tn0JjUOFnQXt94p3CQCA4AkB3weF51Yf",
+      "url": "https://audio.jukehost.co.uk/0LFOzQRlS3kdcFCl5svYoHJmCuNTYAwF",
       "title": "The Emptiness Machine",
       "artist": "Linkin Park",
       "artwork": "https://cdn-images.dzcdn.net/images/cover/1e8ffbd401303b5693226c12ee0b84fb/0x1900-000000-80-0-0.jpg",
@@ -165,64 +165,65 @@
       "playlist": ["Rock"]
     },
     {
-      "url": "https://audio.jukehost.co.uk/yA5v0HqEX7pRLKDkjp3XeFDcksZVv7lr",
+      "url": "https://audio.jukehost.co.uk/2R4JMr3KWqX6X8fNFd8EyLeKyBiJfuzJ",
       "title": "New Woman (feat. ROSALÍA)",
       "artist": "LISA",
       "artwork": "https://preview.redd.it/1zjgs3vriv1e1.jpeg?auto=webp&s=f64f401d387284f9c24e02974f2e7ec1ec4f1727"
     },
     {
-      "url": "https://audio.jukehost.co.uk/BTIDaoKPirPWaPpHl8SOsIU8Ge9Zx9Mb",
+      "url": "https://audio.jukehost.co.uk/YjP1H1wW7o4h6S2uqibhtfNp32i9koDI",
       "title": "Rockstar",
       "artist": "LISA",
       "artwork": "https://preview.redd.it/1zjgs3vriv1e1.jpeg?auto=webp&s=f64f401d387284f9c24e02974f2e7ec1ec4f1727",
       "playlist": ["Alternativa 🎵", "Eletro 🎤"]
     },
     {
-      "url": "https://audio.jukehost.co.uk/nXa6f08Ojlz1V2SYJ3axYmSa7ot0hblZ",
+      "url": "https://audio.jukehost.co.uk/6CbfnnBGp9PfJipwGQMjPVzdmH9fAglh",
       "title": "Welcome To My Island",
       "artist": "Caroline Polacheck",
       "artwork": "https://cdn-images.dzcdn.net/images/cover/67e9a8272d715c88adf400c554f68f33/500x500.jpg",
       "rating": 1
     },
     {
-      "url": "https://audio.jukehost.co.uk/cbMVQp4JGHhSNEeCqRjvieiigYpUaE0s",
+      "url": "https://audio.jukehost.co.uk/lFxPpZ73pKruHoUnIeUGZpKYlcL16l2m",
       "title": "Fly To You (feat. Grimes and Dido)",
       "artist": "Caroline Polacheck",
       "artwork": "https://cdn-images.dzcdn.net/images/cover/67e9a8272d715c88adf400c554f68f33/500x500.jpg",
       "playlist": ["Eletro 🎤"]
     },
     {
-      "url": "https://audio.jukehost.co.uk/Ge9fdTsk6Y9SWoOnC7QJH0n8pprU7rev",
+      "url": "https://audio.jukehost.co.uk/i5BeBKD1Py0KcLwVI6ssWnFfVPRekd42",
       "title": "Pensées positives",
       "artist": "Angèle",
       "artwork": "https://i.scdn.co/image/ab67616d0000b27392dc99b0795e0b8471780217",
       "playlist": ["Pop", "Alternativa 🎵"]
     },
     {
-      "url": "https://audio.jukehost.co.uk/KDOr4agGwHHvikLtk9zukiiDpYNzIp8w",
+      "url": "https://audio.jukehost.co.uk/qloLM83jYc1uhfB6Jer9JBb5UyeqHokw",
       "title": "Bruxelles je t'aime",
       "artist": "Angèle",
       "artwork": "https://i.scdn.co/image/ab67616d0000b27392dc99b0795e0b8471780217",
       "rating": 1
     },
     {
-      "url": "https://audio.jukehost.co.uk/K4PdyskIIfRrRotZtwF0EfHkJGjTs9Dy",
+      "url": "https://audio.jukehost.co.uk/rG7ksA9PlVLwv7SkEQs5fY1QP2qPnb7g",
       "title": "WOKE UP",
       "artist": "XG",
       "artwork": "https://i.scdn.co/image/ab67616d0000b273614336449d4e1000c65171cb"
     },
     {
-      "url": "https://audio.jukehost.co.uk/5MLu9yZCOGOCpf9yhdK4uitEv2CZ9fwx",
+      "url": "https://audio.jukehost.co.uk/OsyUgLLbrOkbstjOTa3cWXwKnqybIKHv",
       "title": "Worth It for the Feeling",
       "artist": "Rebecca Black",
       "artwork": "https://cdn-images.dzcdn.net/images/cover/1add7b0ce04b8859571970193913e91a/0x1900-000000-80-0-0.jpg",
       "playlist": ["Pop"]
     },
     {
-      "url": "https://audio.jukehost.co.uk/bnvYr6BoqfoZjrx72rvq3hGXyE6b7Qyz",
+      "url": "https://audio.jukehost.co.uk/gk13UyDlsJDgXAasxJo9rAnlFXWB1XAf",
       "title": "Hold The Girl",
       "artist": "Rina Sawayama",
       "artwork": "https://cdn-images.dzcdn.net/images/cover/8972bcddfa5be6fc34d25ea4a7a7ff5a/0x1900-000000-80-0-0.jpg",
       "playlist": ["Pop"]
     }
   ]
+}
